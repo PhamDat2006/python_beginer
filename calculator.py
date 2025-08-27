@@ -1,0 +1,8 @@
+a = int(input("nhap so a: "))
+b = int(input("nhap so b: "))
+print("Tong: ",a+b)
+print("Hieu: ",a-b)
+print("Tich: ",a*b)
+print("Thuong Thuc: ",a/b)
+print("Thuong Nguyen: ",a//b)
+print("Du: ", a%b)
